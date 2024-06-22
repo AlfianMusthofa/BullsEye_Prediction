@@ -5,7 +5,7 @@ Tujuan dari proyek ini adalah untuk mengembangkan aplikasi mobile berbasis kecer
 - Meningkatkan Ketersediaan Informasi: Dengan menyediakan aplikasi yang mudah diakses dan mudah digunakan, tujuan proyek ini adalah untuk meningkatkan ketersediaan informasi tentang pergerakan harga saham dan tren pasar kepada pengguna akhir.
 - Mengintegrasikan Teknologi AI: Proyek ini bertujuan untuk memanfaatkan kemajuan dalam bidang kecerdasan buatan, khususnya dalam pemrosesan bahasa alami (NLP) dan teknik regresi, untuk mengembangkan model prediksi harga saham yang lebih canggih dan akurat.
 - Memfasilitasi Pengambilan Keputusan: Melalui penggunaan aplikasi ini, tujuan proyek ini adalah untuk memfasilitasi pengambilan keputusan yang lebih baik dan lebih terinformasi dalam hal investasi saham.
-- Meningkatkan Aksesibilitas: Dengan menghadirkan aplikasi mobile yang dapat diakses di berbagai perangkat, tujuan proyek ini adalah untuk meningkatkan aksesibilitas informasi keuangan dan memperluas jangkauan pengguna potensial, termasuk investor ritel, profesional keuangan, dan masyarakat umum.
+- Meningkatkan Aksesibilitas: Dengan menghadirkan website yang dapat diakses di berbagai perangkat, tujuan proyek ini adalah untuk meningkatkan aksesibilitas informasi keuangan dan memperluas jangkauan pengguna potensial, termasuk investor ritel, profesional keuangan, dan masyarakat umum.
 
 (File Proposal)
 https://drive.google.com/file/d/1FSOjhCh4vCblFqTF8d9svV8Jerj4stYY/view?usp=sharing
