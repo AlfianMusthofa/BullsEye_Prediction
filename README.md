@@ -1,6 +1,6 @@
 # BullsEye_Prediction
 
-Tujuan dari proyek ini adalah untuk mengembangkan aplikasi mobile berbasis kecerdasan buatan (AI) yang mampu memprediksi pergerakan harga saham dengan tingkat akurasi yang tinggi. Beberapa tujuan utama dari proyek ini termasuk:
+Tujuan dari proyek ini adalah untuk mengembangkan web berbasis kecerdasan buatan (AI) yang mampu memprediksi pergerakan harga saham dengan tingkat akurasi yang tinggi. Beberapa tujuan utama dari proyek ini termasuk:
 - Memberikan Alat Pendukung Keputusan: Proyek ini bertujuan untuk memberikan alat yang dapat membantu investor dan profesional keuangan dalam mengambil keputusan investasi yang lebih cerdas dan berdasarkan data.
 - Meningkatkan Ketersediaan Informasi: Dengan menyediakan aplikasi yang mudah diakses dan mudah digunakan, tujuan proyek ini adalah untuk meningkatkan ketersediaan informasi tentang pergerakan harga saham dan tren pasar kepada pengguna akhir.
 - Mengintegrasikan Teknologi AI: Proyek ini bertujuan untuk memanfaatkan kemajuan dalam bidang kecerdasan buatan, khususnya dalam pemrosesan bahasa alami (NLP) dan teknik regresi, untuk mengembangkan model prediksi harga saham yang lebih canggih dan akurat.
