@@ -20,7 +20,7 @@ https://drive.google.com/file/d/1FSOjhCh4vCblFqTF8d9svV8Jerj4stYY/view?usp=shari
 https://www.instagram.com/reel/C63fYCmhvF7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 
 Paper
-https://drive.google.com/file/d/1Lwjo6hMbyXB_4Y3POav47C8NnJURveTp/view
+(https://drive.google.com/file/d/1pEoqmZrNt03p5oVw8Nl_8dCwCkR2Glrd/view?usp=drive_link)
 
 # Bagaimana Cara Menggunakannya ?
 1. Clone proyek ini
